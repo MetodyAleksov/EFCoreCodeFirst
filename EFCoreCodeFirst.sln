@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreCodeFirst", "EFCoreCodeFirst.csproj", "{4B477AE0-7DB6-4E65-903D-98E185B9C411}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_FootballBetting.Data.Models", "..\P03_FootballBetting.Data.Models\P03_FootballBetting.Data.Models.csproj", "{DF415CD8-5229-45CF-82A6-FE9D201DDB78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_FootballBetting.Data", "..\P03_FootballBetting.Data\P03_FootballBetting.Data.csproj", "{82DC417B-6839-47AE-9198-E5D2A8FC4FAE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{4B477AE0-7DB6-4E65-903D-98E185B9C411}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B477AE0-7DB6-4E65-903D-98E185B9C411}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B477AE0-7DB6-4E65-903D-98E185B9C411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF415CD8-5229-45CF-82A6-FE9D201DDB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF415CD8-5229-45CF-82A6-FE9D201DDB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF415CD8-5229-45CF-82A6-FE9D201DDB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF415CD8-5229-45CF-82A6-FE9D201DDB78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82DC417B-6839-47AE-9198-E5D2A8FC4FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DC417B-6839-47AE-9198-E5D2A8FC4FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DC417B-6839-47AE-9198-E5D2A8FC4FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DC417B-6839-47AE-9198-E5D2A8FC4FAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

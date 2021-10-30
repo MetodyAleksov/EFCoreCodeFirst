@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace EFCoreCodeFirst
+namespace P03_FootballBetting 
 {
-    class Program
+    class StartUp
     {
         static void Main(string[] args)
         {
